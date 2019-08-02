@@ -1,5 +1,5 @@
 {
-    "name": "gocashfree/cashfree-magento",
+    "name": "cashfree/cashfree-magento",
     "description": "payment gateway extension for magento by Cashfree",
     "require": {
         "magento/framework": "102.0.*",
@@ -16,7 +16,7 @@
     },
     "homepage": "https://cashfree.com",
     "support": {
-      "email": "techsupport@gocashfree.com",
+      "email": "techsupport@cashfree.com",
       "docs": "https://docs.cashfree.com/docs/"
     },
     "type": "magento2-module",
